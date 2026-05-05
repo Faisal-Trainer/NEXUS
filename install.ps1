@@ -1,5 +1,5 @@
 # Human-AI Nexus Installer for Windows (External Only - Unified & Lean)
-$repoUrl = "https://github.com/Faisal-Trainer/Human-AI-Nexus/archive/refs/heads/main.zip"
+$repoUrl = "https://github.com/Faisal-Trainer/NEXUS/archive/refs/heads/main.zip"
 $tempZip = "$env:TEMP\nexus.zip"
 $tempDir = "$env:TEMP\nexus_extracted"
 

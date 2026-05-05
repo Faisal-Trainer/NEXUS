@@ -1,5 +1,5 @@
 # 🤖 Human-AI Nexus: Knowledge Architect Edition
-> **Version**: v3.5.0 (Phase 5: Knowledge Shelving)
+> **Version**: v1.0.0 (Public Release)
 
 [![Quick Guide](https://img.shields.io/badge/GUIDE-READ%20FIRST-blueviolet?style=for-the-badge)](documentation/nexus_rules/PANDUAN_CEPAT.md)
 
@@ -101,14 +101,13 @@ graph TD
 Use the automated command via `npx` (Recommended):
 
 ```bash
-# Direct from GitHub (Public Distribution):
-npx github:Faisal-Trainer/Human-AI-Nexus
+npx github:Faisal-Trainer/NEXUS
 ```
 
 Alternatively, copy the framework folder into your project root.
 
 > **Tip**: To update an existing installation without deleting data, use the `--force` flag:
-> `npx github:Faisal-Trainer/Human-AI-Nexus --force`
+> `npx github:Faisal-Trainer/NEXUS --force`
 
 ### 2. Run the Engine
 
